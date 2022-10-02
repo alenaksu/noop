@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "postcss": "^8.4.17"
+  },
+  "scripts": {
+    "build": "parcel build index.html --no-cache --no-source-maps --dist-dir public"
+  }
+}
